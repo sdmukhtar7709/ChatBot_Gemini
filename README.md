@@ -1,6 +1,4 @@
-# Chat AI Mukhtar
 
-A modern and interactive AI chatbot box built with JavaScript, HTML, and CSS. This chatbot supports text input, emoji reactions, image uploads, and saves chat history to maintain conversation context, offering a richer and more dynamic user experience.
 
 ## Live Demo
 
